@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">To Do\'s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="todo_empty_view_text">Create Task</string>
+    <string name="completed_empty_view_text">No Completed Task!</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+    <string name="task_inserted">You Will be Notified if Task is Incomplete!</string>
+    <string name="task_not_inserted">Task Not Saved</string>
+    <string name="task_deletion_failed">Task Not Deleted!</string>
+    <string name="task_deletion_successful">Task Deleted!</string>
+    <string name="task_not_updated">Task Not Updated!</string>
+    <string name="task_updated">Task Updated!</string>
+    <string name="set_date_button_text">SET DATE</string>
+    <string name="set_time_button_text">SET TIME</string>
+    <string name="task_description1">Task requires atleast one description!</string>
+    <string name="title">Title</string>
+    <string name="title_value_hint">Android Development</string>
+    <string name="date_text_hint">DD-MM-YYYY</string>
+    <string name="time_text_hint">HH:MM:SS</string>
+    <string name="level1_text_value">Sub Task 1</string>
+    <string name="desc1_hint">Beginner Level</string>
+    <string name="level2_text_value">Sub Task 2</string>
+    <string name="desc2_hint">Intermediate Level</string>
+    <string name="level3_text_value">Sub Task 3</string>
+    <string name="desc3_hint">Advance Level</string>
+    <string name="title_required">Task requires Title!</string>
+    <string name="task_description">All sub tasks are required!</string>
+
+</resources>
